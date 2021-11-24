@@ -1,44 +1,32 @@
-No-code for developers
+IT process automation for managed service providers
 ========
 
-Today there is a lot of buzz about no-code and low-code development. Typically, the talk is about non-developers or “citizen developers” using no-code / low-code approaches, but it can also be an option for developers.
+IT process automation can have several benefits for a managed service provider. It can increase productivity, lower costs, improve quality, reduce downtime, improve SLA management and keep customers happy.
 
-In the movie Spinal Tap, Nigel Tufnel explains to Marty DiBergi (the film maker) that he has modified his amplifiers so the all the volume knobs go up to eleven, rather than ten.
+Until now, IT process automation was a benefit mostly enjoyed by large organizations. However, with the introduction of SaaS tools and standards for integrating these tools, it is now possible for any managed service provider to enjoy the same benefits.
 
-Marty: “Does that mean it’s louder? Is it any louder?”
+IT automation for managed service provider can be achieved in two areas; remote monitoring management (RMM) and professional services administration (PSA).
 
-Nigel: “Well, it’s one louder, isn’t it? It’s not ten. You see, most blokes, you know, will be playing at ten…Where can you go from there? Where?”
+In the area of RMM, automation can improve workload distribution with intelligent alert management. Getting the alerts to the right person saves time. AlertOps smart alert management can route RMM alerts to the right person. Alert noise also impacts productivity. AlertOps Alert Aggregation suppresses noise. Smart alert management can automatically defer non-critical alerts until the next business day.
 
-Marty: “Why don’t you make ten a little louder? Make that the top number and make that a little louder?”
+Remote process automation (RPA) can reduce downtime and fix problems before they grow into major incidents. AlertOps workflows can automatically trigger a remote process in a tool like Kaseya to fix the problem. AlertOps also allows a remote process can also be triggered from a mobile app, saving the responder from having to log into a server.
 
-Nigel: “These go to eleven.”
+Likewise, process automation can reduce effort in PSA tools. AlertOps can be integrated with PSA tools like Connectwise Manage. AlertOps can automatically send updates to a ticket in Connectwise, reducing manual entry.
 
-Developers are constantly being asked to do more and do it faster. Develop new business-critical apps. Deploy code more quickly. Deploy less buggy code. Keep up with technology. Step into quasi-support roles. Train new developers. Keep up with the latest streaming episodes on your favorite TV show. The demands can be mind-boggling.
-
-There are many options to address these needs. Agile processes, continuous integration and continuous deployment (CI/CD). DevOps. Following blogs about your favorite streaming shows.
-
-Today there is a lot of buzz about no-code and low-code development. Typically, the talk is about non-developers or “citizen developers” using no-code / low-code approaches, but it can also be an option for developers.
-
-However, like Nigel, developers tend to want to do things themselves. They don’t like out-of-the-box solutions when they know they can build something better.
-
-But maybe no-code for developers is not such a bad thing. After all, in the hands of a rock-star developer, maybe that app can be cranked to eleven, and we could all be rock gods like Spinal Tap.
-
-Learn more about what AlertOps has to offer for no-code development.
+Learn more about AlertOps for managed service providers.
 
 Source:
 ========
 
-https://alertops.com/no-code-for-developers
+https://alertops.com/it-process-automation-for-managed-service-providers
 
 Read more:
 ========
 
-https://alertops.com/devops-automation
-https://alertops.com/devops-barriers
-https://alertops.com/what-is-devops
-https://alertops.com/msps-cloud-services
-https://alertops.com/on-call-rotation
-https://alertops.com/implement-it-service-alerting
-https://alertops.com/devops-periodic-table
-https://alertops.com/devops-roadmap
-https://alertops.com/continuous-delivery-impacts-devops
+https://alertops.com/incident-management-metrics
+https://alertops.com/incident-management-process
+https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach
+https://alertops.com/it-process-automation-for-managed-service-providers
+https://alertops.com/devops-vs-agile
+https://alertops.com/application-performance-monitoring
+https://alertops.com/it-monitoring
